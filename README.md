@@ -1,35 +1,100 @@
-<h1 align="center">Hi 👋, I'm Kamalakanta Mahapatra</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kamalakanta01&label=Profile%20views&color=0e75b6&style=flat" alt="Kamalakanta01" /> </p>
-<img width="400" align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="code" >
 
-  Portfolio : 
+<h1 align="center" style="color:#fde1e8;font-size:78%;">Hello Developers ,here<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height= 40px>< Kamalakanta/></h1>
+<!-- <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
-- 👨‍💻 All of my projects are available at [Portfolio]()
+<h4 align="center">
+I'm a passionate full-stack web developer with expertise in front-end and back-end technologies. 
+    Experienced in developing user-friendly interfaces and collaborating in cross-functional teams.
+    I love to explore new technologies and use them to solve real-life problems .
+    Always excited to take on new challenges and willing to make myself more productive each day,
+    </h4>
+<p align= "center" style="margin-top:30px">
+<img width="100px" height="30px" src="https://img.shields.io/badge/M-MongoDB-pink"/>
+<img width="100px" height="30px"  src="https://img.shields.io/badge/E-Express-yellow"/>
+<img  width="100px" height="30px"  src="https://img.shields.io/badge/R-React-purple"/>
+    <img width="100px" height="30px"  src="https://img.shields.io/badge/R-Redux-blue"/>
+<img width="100px" height="30px"  src="https://img.shields.io/badge/N-Node-green"/>
+<img width="100px" height="30px" src="https://img.shields.io/badge/JS-Javascript-brown"/>
+</p>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/><br/>
+<img align="right" alt="coding" width="550" style="margin-left:30px" src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966"/>
+<h2> ##  🙋‍♀️  About Me  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px height = 25px> </h2>    
 
-- 📫 How to reach me **mahapatrak898.kkm@gmail.com**
 
-- 📄 Know about my experiences [Resume]()
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/seedling_1f331.png"> I’m currently exploring **MERN Stack,Data Structures and Algorithms.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kamalakanta-mahapatra-082825208/" target="blank"><img align="center" src="https://img.icons8.com/?size=1x&id=13930&format=png"" alt="kamalakanta01" height="30" width="40" /></a>
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/woman-dancing_1f483.png"> I’m looking to collaborate on **OpenSource Projects**
+
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/skype/289/film-projector_1f4fd-fe0f.png"> All of my projects are available at **[My Portfolio]()**
+
+- <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **mahapatrak898.kkm@gmail.com**
+
+- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in ART & CRAFT**
+<p style="margin-top:80px">
+
+ ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
+
+<div style="display:flex;gap:20px">
+<a href = "https://www.linkedin.com/in/kamalakanta-mahapatra-082825208/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="mailto:mahapatrak898.kkm@gmail.com"><img width=43px height=45px src="https://camo.githubusercontent.com/70917cb7756d2e3f19d86872d89102269d6aed7115a7be64f29bbf1aed12baf9/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3838382f3838383835332e706e67"></a>
+<a href="https://api.whatsapp.com/send?phone=9777846347"><img width=40px height=43px src="https://camo.githubusercontent.com/6590702cef8b9697656ce084d83381fa8a9de03b317fbef452288f00d1085b9a/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f3733332f3733333538352e706e67"></a>
+
+</div>
+
+    
+
+
+<p style="margin-top:30px">
+
+
+
+<h1 style="color:#fa4a6f;font-size:35px;text-align:center">🚀 Language and Tools</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center"> 
+    <img src="https://img.icons8.com/color/48/000000/react-native.png" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/css.png" style="margin-right:50px"/> 
+     <img style="padding-right:8px; padding-left:8px" src="https://img.icons8.com/color/48/000000/nodejs.png" style="margin-right:20px, margin-left:20px"/>
+    <img style="margin-top:10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/color/48/000000/git.png" style="margin-right:20px"/> 
+    <img src="https://miro.medium.com/max/640/1*SL4sWHdjGR3vo0x5ta3xfw.jpeg" width="50" style="padding:8px" style="margin-right:20px"/>
+    <img src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" width="50" height="40" style="margin-right:20px"/>
+    <img src="https://img.icons8.com/?size=512&id=r9QJ0VFFrn7T&format=png" width="50" height="50">
+      <img src="https://img.icons8.com/color/48/000000/javascript.png" style="margin-right:20px"/> 
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" style="margin-right:20px"/>
+    <img src="https://dantehaxor.github.io/images/dsaLogo.png" width="50" height="40" style="margin-right:20px">
+    <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-640x400.png" width="70" height="50" style="margin-right:20px">
+   
+  
 </p>
 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-   
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/919/919826.png" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/390/229/png-transparent-logo-html5-brand-design-text-logo-number.png" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://logowik.com/content/uploads/images/731_java.jpg" alt="java" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mongodb-5-1175140.png" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://www.creative-tim.com/blog/content/images/wordpress/2020/03/node-js-736399_1280.png" alt="nodejs" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/45470/1631110818-logo-react-js.png" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+    <a href="https://github.com/Kamalakanta01/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="deepshikha's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamalakanta01&theme=radical&hide_border=true&stroke=0000&background=#122722"/>
+    </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kamalakanta01&show_icons=true&locale=en" alt="htripathi07" /></p>
+## 📊 My Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kamalakanta01&" alt="htripathi07" /></p>
+  <br/>
+ 
+<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamalakanta01&theme=2077">
+  </div>
+  <div style="display: flex; justify-content: space-around; width: 100%;margin:20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kamalakanta01&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kamalakanta01&theme=2077">
+  </div>
+  <div style="display: flex; justify-content: space-around;  width: 100%;margin:20px;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamalakanta01&theme=2077">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kamalakanta01&theme=2077&utcOffset=8">
+  </div>
+</div>
+
+
+
+</p>
