@@ -29,7 +29,7 @@ I'm a full-stack web developer with experience in both front-end and back-end te
 
 - <img  width = 30px height = 30px src="https://em-content.zobj.net/source/microsoft-teams/363/see-no-evil-monkey_1f648.png">How to reach me **mahapatrak898.kkm@gmail.com**
 
-- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love to do swimming and have a keen interest in ART & CRAFT**
+- <img width=30px height=30px src="https://em-content.zobj.net/source/microsoft-teams/363/ghost_1f47b.png"> Fun fact - **I love working out and have a keen interest in ART & CRAFT**
 <p style="margin-top:80px">
 
  ## Connect me on:    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="120px" height="50px" >
